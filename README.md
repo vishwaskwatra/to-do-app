@@ -17,7 +17,7 @@ Ensure you have the following installed:
 
 ### Steps to run this project in your environment
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/vishwaskwatra/to-do-app
 cd todo-app
 npm install
 npm run dev
