@@ -3,7 +3,7 @@ import Header from './components/Header';
 import ToDoList from './components/ToDoList';
 
 const App = () => {
-  const [todos, setTodos] = useState([]);  // Ensure todos is an array
+  const [todos, setTodos] = useState([]);
 
   const addTodo = (newTodoText) => {
     if (newTodoText.trim() !== '') {
